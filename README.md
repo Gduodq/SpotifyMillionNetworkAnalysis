@@ -4,7 +4,7 @@
 
 Análise sobre o dataset de playlists cedido pelo Spotify
 
-Para acessar a visualização acesse https://gduodq.github.io/SpotifyMillionNetworkAnalysis/network
+Para acessar a visualização entre em: https://gduodq.github.io/SpotifyMillionNetworkAnalysis/network
 
 Autores:
 
