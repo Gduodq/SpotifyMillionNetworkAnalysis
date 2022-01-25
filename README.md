@@ -4,6 +4,8 @@
 
 Análise sobre o dataset de playlists cedido pelo Spotify
 
+Para acessar a visualização acesse https://gduodq.github.io/SpotifyMillionNetworkAnalysis/network
+
 Autores:
 
 * Darlan de Castro Silva Filho - 20200000607;
